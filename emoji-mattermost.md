@@ -29,3 +29,6 @@ do
              https://<Mattermost URL>/api/v4/emoji
 done
 ```
+
+## emoji-botのトークン
+vaultwarden(vaultwarden.sohosai.com)に保存されています。インフラ担当長にお願いして参照してください。
