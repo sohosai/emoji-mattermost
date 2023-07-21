@@ -12,7 +12,7 @@ $ CREATE_ID=$(curl -s -X GET -H "Authorization: Bearer ${TOKEN}" https://<Matter
 $ echo $CREATE_ID
 ```
 - <Botのトークン>を先ほど取得したトークンに置き換える
-- <Mattermost URL>をホストしているMattermostのURL（mattermost.sohosai.com など）に置き換える
+- \<Mattermost URL>をホストしているMattermostのURL（mattermost.sohosai.com など）に置き換える
 
 ## 絵文字を一括で登録する
 ```
@@ -31,5 +31,5 @@ done
 ```
 
 ## emoji-botのトークン
-vaultwarden(https://vaultwarden.sohosai.com)に保存されています。
+[vaultwarden](https://vaultwarden.sohosai.com)に保存されています。
 インフラ担当長にお願いして参照してください。
